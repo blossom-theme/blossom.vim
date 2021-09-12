@@ -19,7 +19,7 @@ beneath cherry blossoms.
 Vim plug example:
 
 ```
-Plug 'rayes0/blossom.vim'
+Plug 'blossom-theme/blossom.vim'
 ```
 
 #### Usage
